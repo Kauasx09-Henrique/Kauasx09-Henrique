@@ -5,7 +5,7 @@
 
 - 🌱 Atualmente estou aprendendo **Java**
 
-- 👨‍💻 Todos os meus projetos estão disponíveis em [portfolio-fullstack-kaua.vercel.app](portfolio-fullstack-kaua.vercel.app)
+- 👨‍💻 Todos os meus projetos estão disponíveis em [portfolio-fullstack-kaua.vercel.app](https://portfolio-fullstack-kaua.vercel.app/)
 
 - 💬 Pergunte-me sobre **React, PHP, MYsql, React Native**
 
@@ -13,7 +13,7 @@
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/kau%c3%a3henriquedev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kau%c3%a3henriquedev/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/kau%c3%a3henriquedev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kau%C3%A3henriquedev/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Idiomas e ferramentas:</h3>
