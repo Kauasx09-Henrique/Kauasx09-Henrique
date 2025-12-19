@@ -27,7 +27,7 @@ Sou **Desenvolvedor Full Stack Jr.** e atualmente atuo como **Estagiário no CEN
 
 ---
 
-### 🛠️ Tecnologias e Ferramentas
+### 💻 Tech Stack
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,java,php,html,css&perline=6" />
