@@ -45,8 +45,7 @@ Sou **Desenvolvedor Full Stack Jr.** e atualmente atuo como **Estagiário no CEN
 
 <div align="center">
   <a href="https://github.com/Kauasx09-Henrique">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kauasx09-Henrique&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="Kauã Henrique Stats"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kauasx09-Henrique&layout=compact&langs_count=7&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kauasx09-Henrique&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&title_color=0E75B6" alt="Top Languages"/>
   </a>
 </div>
 
