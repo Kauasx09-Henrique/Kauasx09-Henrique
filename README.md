@@ -59,5 +59,16 @@ Sou **Desenvolvedor Full Stack Jr.** e atualmente atuo como **Estagiário no CEN
 ---
 
 <div align="center">
+  <br>
+  <i>"Talk is cheap. Show me the code."</i>
+  <br>
+  <b>— Linus Torvalds</b>
+  <br>
+  <br>
+</div>
+
+---
+
+<div align="center">
   <img src="https://komarev.com/ghpvc/?username=Kauasx09-Henrique&label=Visualiza%C3%A7%C3%B5es+do+Perfil&color=0e75b6&style=flat-square" alt="Profile Views" />
 </div>
