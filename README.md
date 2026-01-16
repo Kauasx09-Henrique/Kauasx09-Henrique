@@ -1,5 +1,8 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=0E75B6&center=true&vCenter=true&width=435&lines=Ol%C3%A1%2C+sou+Kau%C3%A3+Henrique;Full+Stack+Developer;Estagi%C3%A1rio+no+CENSIPAM;React+Native+%E2%80%A2+NestJS+%E2%80%A2+Java" alt="Typing SVG" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="800">
+  <br><br>
+  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=0E75B6&center=true&vCenter=true&width=500&lines=Ol%C3%A1%2C+sou+Kau%C3%A3+Henrique;%F0%9F%9A%80+Full+Stack+Developer;%F0%9F%8F%9B%EF%B8%8F+Estagi%C3%A1rio+no+CENSIPAM;%F0%9F%93%B1+Mobile+com+React+Native;%E2%9A%99%EF%B8%8F+Backend+com+NestJS+e+Java" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -16,58 +19,84 @@
 
 <br>
 
-### 👨‍💻 Sobre Mim
+### 👨‍💻 Resumo Profissional
 
-Sou **Desenvolvedor Full Stack Jr.** e atualmente atuo como **Estagiário no CENSIPAM**. Tenho paixão por transformar ideias em código limpo e eficiente, sempre buscando resolver problemas reais através da tecnologia.
+Sou **Desenvolvedor Full Stack Jr.** e atuo como **Estagiário no CENSIPAM**. Tenho paixão por transformar ideias em código limpo e eficiente, unindo a agilidade do **Javascript** com a robustez do **Java**.
 
-- 🔭 **Foco atual:** Desenvolvimento Mobile com **React Native** e Backend escalável com **NestJS**.
-- 🌱 **Estudando:** Aprofundando conceitos de **Java**, Arquitetura de Software e Cloud.
-- 💼 **Experiência:** Criação de APIs RESTful, integração com bancos de dados relacionais e interfaces modernas.
-- ⚡ **Objetivo:** Construir soluções que impactem positivamente a vida das pessoas.
+- 🔭 **Foco:** Apps Mobile (React Native) e APIs Escaláveis (NestJS/Spring).
+- 🌱 **Aprendendo:** Arquitetura de Software, Cloud Computing e Design Patterns.
+- 💼 **Experiência:** APIs RESTful, SQL Avançado e Interfaces Responsivas.
+- ⚡ **Missão:** Construir soluções que impactem a vida das pessoas.
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-### 💻 Tech Stack
+### 🚀 Stack Tecnológica
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,java,php,html,css&perline=6" />
-  <br>
-  <img src="https://skillicons.dev/icons?i=react,reactnative,tailwind,bootstrap&perline=6" />
-  <br>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,postgresql,mysql&perline=6" />
-  <br>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,figma&perline=6" />
+  <table>
+    <tr>
+      <td align="center" width="30%">
+        <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"><br>
+        <strong>Frontend & Mobile</strong>
+      </td>
+      <td align="center" width="30%">
+        <img src="https://media.giphy.com/media/QssGEmpTQBBCGcrP7r/giphy.gif" width="30"><br>
+        <strong>Backend & API</strong>
+      </td>
+      <td align="center" width="30%">
+        <img src="https://media.giphy.com/media/IdyAQJVN2jwxpCdbGs/giphy.gif" width="30"><br>
+        <strong>Dados & Tools</strong>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=react,reactnative,ts,js,html,css,tailwind,bootstrap&perline=4" />
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=java,nestjs,express,nodejs,php&perline=3" />
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=postgresql,mysql,git,github,vscode,postman,figma&perline=3" />
+      </td>
+    </tr>
+  </table>
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-### 📊 Estatísticas do GitHub
+### 📊 Métricas do GitHub
 
 <div align="center">
-  <a href="https://github.com/Kauasx09-Henrique">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kauasx09-Henrique&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&title_color=0E75B6" alt="Top Languages"/>
-  </a>
+  <table>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/Kauasx09-Henrique">
+          <img src="https://github-readme-stats.vercel.app/api?username=Kauasx09-Henrique&show_icons=true&theme=tokyonight&hide_border=true&title_color=0E75B6&count_private=true&include_all_commits=true" height="150" alt="GitHub Stats" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/Kauasx09-Henrique">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kauasx09-Henrique&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&title_color=0E75B6" height="150" alt="Top Languages" />
+        </a>
+      </td>
+    </tr>
+  </table>
+  
+  <br>
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kauasx09-Henrique&theme=tokyonight&hide_border=true" alt="Streak Stats" />
 </div>
 
-<br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kauasx09-Henrique&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
----
-
-<div align="center">
+  <br>
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="100">
   <br>
   <i>"Talk is cheap. Show me the code."</i>
   <br>
   <b>— Linus Torvalds</b>
   <br>
   <br>
-</div>
-
----
-
-<div align="center">
   <img src="https://komarev.com/ghpvc/?username=Kauasx09-Henrique&label=Visualiza%C3%A7%C3%B5es+do+Perfil&color=0e75b6&style=flat-square" alt="Profile Views" />
 </div>
