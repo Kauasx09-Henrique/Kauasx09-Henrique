@@ -71,7 +71,7 @@ Sou **Desenvolvedor Full Stack Jr.** e atuo como **Estagiário no CENSIPAM**. Te
     <tr>
       <td align="center">
         <a href="https://github.com/Kauasx09-Henrique">
-          <img src="https://github-readme-stats.vercel.app/api?username=Kauasx09-Henrique&show_icons=true&theme=tokyonight&hide_border=true&title_color=0E75B6&count_private=true&include_all_commits=true" height="150" alt="GitHub Stats" />
+          <img src="https://github-readme-stats.vercel.app/api?username=Kauasx09-Henrique&show_icons=true&theme=tokyonight&hide_border=true&title_color=0E75B6&include_all_commits=true" height="150" alt="GitHub Stats" />
         </a>
       </td>
       <td align="center">
@@ -84,7 +84,9 @@ Sou **Desenvolvedor Full Stack Jr.** e atuo como **Estagiário no CENSIPAM**. Te
   
   <br>
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kauasx09-Henrique&theme=tokyonight&hide_border=true" alt="Streak Stats" />
+  <a href="https://github.com/Kauasx09-Henrique">
+    <img src="https://streak-stats.demolab.com/?user=Kauasx09-Henrique&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+  </a>
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
