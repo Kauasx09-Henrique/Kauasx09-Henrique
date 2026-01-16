@@ -2,7 +2,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="800">
   <br><br>
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=0E75B6&center=true&vCenter=true&width=500&lines=Ol%C3%A1%2C+sou+Kau%C3%A3+Henrique;%F0%9F%9A%80+Full+Stack+Developer;%F0%9F%8F%9B%EF%B8%8F+Estagi%C3%A1rio+no+CENSIPAM;%F0%9F%93%B1+Mobile+com+React+Native;%E2%9A%99%EF%B8%8F+Backend+com+NestJS+e+Java" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=0E75B6&center=true&vCenter=true&width=500&lines=Ol%C3%A1%2C+sou+Kau%C3%A3+Henrique;%F0%9F%9A%80+Full+Stack+Developer;%F0%9F%94%8E+Em+busca+da+primeira+vaga+Dev;%F0%9F%93%B1+Mobile+com+React+Native;%E2%9A%99%EF%B8%8F+Backend+com+NestJS+e+Java" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -21,12 +21,12 @@
 
 ### 👨‍💻 Resumo Profissional
 
-Sou **Desenvolvedor Full Stack Jr.** e atuo como **Estagiário no CENSIPAM**. Tenho paixão por transformar ideias em código limpo e eficiente, unindo a agilidade do **Javascript** com a robustez do **Java**.
+Sou **Desenvolvedor Full Stack** apaixonado por tecnologia. Após atuar como estagiário, **estou em busca da minha primeira oportunidade efetiva como Desenvolvedor**. Tenho experiência prática em transformar ideias em código limpo, unindo a agilidade do **Javascript** com a robustez do **Java**.
 
 - 🔭 **Foco:** Apps Mobile (React Native) e APIs Escaláveis (NestJS/Spring).
-- 🌱 **Aprendendo:** Arquitetura de Software, Cloud Computing e Design Patterns.
-- 💼 **Experiência:** APIs RESTful, SQL Avançado e Interfaces Responsivas.
-- ⚡ **Missão:** Construir soluções que impactem a vida das pessoas.
+- 🚀 **Objetivo:** Integrar um time de desenvolvimento onde eu possa aplicar meus conhecimentos e crescer profissionalmente.
+- 💼 **Experiência:** Criação de APIs RESTful, SQL Avançado e Interfaces Responsivas.
+- ⚡ **Diferencial:** Vontade de aprender e resolver problemas complexos.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -71,7 +71,7 @@ Sou **Desenvolvedor Full Stack Jr.** e atuo como **Estagiário no CENSIPAM**. Te
     <tr>
       <td align="center">
         <a href="https://github.com/Kauasx09-Henrique">
-          <img src="https://github-readme-stats.vercel.app/api?username=Kauasx09-Henrique&show_icons=true&theme=tokyonight&hide_border=true&title_color=0E75B6&include_all_commits=true" height="150" alt="GitHub Stats" />
+          <img src="https://github-readme-stats.vercel.app/api?username=Kauasx09-Henrique&show_icons=true&theme=tokyonight&hide_border=true&title_color=0E75B6" height="150" alt="GitHub Stats" />
         </a>
       </td>
       <td align="center">
