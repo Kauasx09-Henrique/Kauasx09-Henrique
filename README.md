@@ -1,102 +1,161 @@
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="800">
-  <br><br>
-  
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=0E75B6&center=true&vCenter=true&width=500&lines=Ol%C3%A1%2C+sou+Kau%C3%A3+Henrique;%F0%9F%9A%80+Full+Stack+Developer;%F0%9F%8F%9B%EF%B8%8F+Estagi%C3%A1rio+no+CENSIPAM;%F0%9F%93%B1+Mobile+com+React+Native;%E2%9A%99%EF%B8%8F+Backend+com+NestJS+e+Java" alt="Typing SVG" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0B132B,50:1C2541,100:3A86FF&text=Kauã%20Henrique&fontSize=55&fontColor=ffffff&fontAlignY=40&desc=Backend%20Developer%20•%20Software%20Engineering&descAlignY=58&animation=fadeIn"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/Backend%20Developer-0E75B6?style=for-the-badge&logo=serverless&logoColor=white"/>
+<img src="https://img.shields.io/badge/Software%20Engineering-111827?style=for-the-badge&logo=academia&logoColor=white"/>
+<img src="https://img.shields.io/badge/CENSIPAM-061A40?style=for-the-badge&logo=windows-terminal&logoColor=white"/>
+
+<br><br>
+
 </div>
 
+---
+
 <div align="center">
-  <a href="https://kauahenriquedev.com.br" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-kauahenriquedev.com.br-0e75b6?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio">
-  </a>
-  <a href="https://www.linkedin.com/in/kauãhenriquedev" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Kau%C3%A3_Henrique-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:kauahenriquesx09@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Fale_Comigo-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
+
+# ⚡ Backend Developer focused on scalable systems and APIs
+
+🎓 Graduando em Engenharia de Software  
+🎓 Formado em Análise e Desenvolvimento de Sistemas  
+🏛️ Estagiário de TI no CENSIPAM
+
 </div>
 
 <br>
 
-### 👨‍💻 Resumo Profissional
-
-Sou **Desenvolvedor Full Stack Jr.** e atuo como **Estagiário no CENSIPAM**. Tenho paixão por transformar ideias em código limpo e eficiente, unindo a agilidade do **Javascript** com a robustez do **Java**.
-
-- 🔭 **Foco:** Apps Mobile (React Native) e APIs Escaláveis (NestJS/Spring).
-- 🌱 **Aprendendo:** Arquitetura de Software, Cloud Computing e Design Patterns.
-- 💼 **Experiência:** APIs RESTful, SQL Avançado e Interfaces Responsivas.
-- ⚡ **Missão:** Construir soluções que impactem a vida das pessoas.
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-### 🚀 Stack Tecnológica
-
 <div align="center">
-  <table>
-    <tr>
-      <td align="center" width="30%">
-        <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"><br>
-        <strong>Frontend & Mobile</strong>
-      </td>
-      <td align="center" width="30%">
-        <img src="https://media.giphy.com/media/QssGEmpTQBBCGcrP7r/giphy.gif" width="30"><br>
-        <strong>Backend & API</strong>
-      </td>
-      <td align="center" width="30%">
-        <img src="https://media.giphy.com/media/IdyAQJVN2jwxpCdbGs/giphy.gif" width="30"><br>
-        <strong>Dados & Tools</strong>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=react,reactnative,ts,js,html,css,tailwind,bootstrap&perline=4" />
-      </td>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=java,nestjs,express,nodejs,php&perline=3" />
-      </td>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=postgresql,mysql,git,github,vscode,postman,figma&perline=3" />
-      </td>
-    </tr>
-  </table>
+
+<a href="https://kauahenriquedev.com.br">
+  <img src="https://img.shields.io/badge/🌐%20Portfolio-0E75B6?style=for-the-badge">
+</a>
+
+<a href="https://github.com/Kauasx09-Henrique">
+  <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+<a href="mailto:kauahenriquesx09@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+<a href="https://linkedin.com">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
 
-### 📊 Métricas do GitHub
+# 👨‍💻 Sobre Mim
+
+Sou **Desenvolvedor Backend** apaixonado por construir aplicações modernas, APIs escaláveis e arquiteturas robustas.  
+Atualmente atuo como **Estagiário de TI no CENSIPAM**, participando de soluções tecnológicas e evoluindo constantemente minhas habilidades em desenvolvimento backend e engenharia de software.
+
+Minha principal stack envolve **Node.js, NestJS, Java, PHP e PostgreSQL**, sempre buscando escrever código limpo, performático e escalável.
+
+Tenho formação em **Análise e Desenvolvimento de Sistemas** pelo IESB e atualmente curso **Engenharia de Software**, aprofundando conhecimentos em:
+
+- Arquitetura de Software
+- Microsserviços
+- Clean Architecture
+- APIs RESTful
+- Banco de Dados SQL
+- Cloud Computing
+
+Além do backend, também possuo experiência com desenvolvimento mobile utilizando **React Native**, integração de APIs e construção de sistemas completos.
+
+🚀 Meu objetivo é evoluir como engenheiro de software e desenvolver soluções que gerem impacto real através da tecnologia.
+
+---
+
+# 🚀 Tech Stack
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <a href="https://github.com/Kauasx09-Henrique">
-          <img src="https://github-readme-stats.vercel.app/api?username=Kauasx09-Henrique&show_icons=true&theme=tokyonight&hide_border=true&title_color=0E75B6&count_private=true&include_all_commits=true" height="150" alt="GitHub Stats" />
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://github.com/Kauasx09-Henrique">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kauasx09-Henrique&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&title_color=0E75B6" height="150" alt="Top Languages" />
-        </a>
-      </td>
-    </tr>
-  </table>
-  
-  <br>
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kauasx09-Henrique&theme=tokyonight&hide_border=true" alt="Streak Stats" />
+
+### ⚙️ Backend
+
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,java,spring,php,express" />
+
+### 🗄️ Banco de Dados
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" />
+
+### 🎨 Frontend & Mobile
+
+<img src="https://skillicons.dev/icons?i=react,reactnative,ts,js,html,css,tailwind" />
+
+### 🛠️ Ferramentas
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,figma" />
+
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
+
+# 📊 Dashboard GitHub
 
 <div align="center">
-  <br>
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="100">
-  <br>
-  <i>"Talk is cheap. Show me the code."</i>
-  <br>
-  <b>— Linus Torvalds</b>
-  <br>
-  <br>
-  <img src="https://komarev.com/ghpvc/?username=Kauasx09-Henrique&label=Visualiza%C3%A7%C3%B5es+do+Perfil&color=0e75b6&style=flat-square" alt="Profile Views" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kauasx09-Henrique&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kauasx09-Henrique&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+
+<br><br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Kauasx09-Henrique&theme=tokyonight&hide_border=true"/>
+
+<br><br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kauasx09-Henrique&theme=tokyonight"/>
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kauasx09-Henrique&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 Conquistas
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Kauasx09-Henrique&theme=tokyonight&no-frame=true&row=1&column=6"/>
+
+</div>
+
+---
+
+# 📚 Formação Acadêmica
+
+🎓 Engenharia de Software — Gran Faculdade  
+🎓 Análise e Desenvolvimento de Sistemas — IESB  
+🎓 Técnico em Informática — Escola Técnica de Ceilândia
+
+---
+
+# 🔥 Atualmente
+
+- 🚀 Desenvolvendo APIs modernas com NestJS
+- 🏛️ Participando de projetos institucionais no CENSIPAM
+- 📱 Criando aplicações mobile com React Native
+- ⚙️ Evoluindo em Arquitetura de Software e Microsserviços
+- 🧠 Estudando Clean Code e Design Patterns
+
+---
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=Kauasx09-Henrique&label=Visualizações&color=0E75B6&style=for-the-badge"/>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B132B,50:1C2541,100:3A86FF&height=120&section=footer"/>
+
 </div>
