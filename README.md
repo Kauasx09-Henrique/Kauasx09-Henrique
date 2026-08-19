@@ -1,123 +1,157 @@
+<h1 align="center">Kauã Henrique</h1>
+<p align="center">Full stack developer · Brasília, BR</p>
+
+<p align="center">
+<a href="https://kauahenriquedev.com.br">portfólio</a> ·
+<a href="https://www.linkedin.com/in/kau%C3%A3henriquedev/">linkedin</a> ·
+<a href="mailto:kauahenriquesx09@gmail.com">email</a>
+</p>
+
+<br/>
+
+## Números
+
+<table width="100%">
+<tr align="center">
+<td width="25%"><h2>29</h2><sub>REPOSITÓRIOS</sub></td>
+<td width="25%"><h2>7</h2><sub>EM PRODUÇÃO</sub></td>
+<td width="25%"><h2>5</h2><sub>LINGUAGENS</sub></td>
+<td width="25%"><h2>2</h2><sub>ANOS CODANDO</sub></td>
+</tr>
+</table>
+
 <div align="center">
 
-<br/>
-
-# KAUÃ HENRIQUE
-
-<sub>FULL STACK DEVELOPER — BRASÍLIA, BR</sub>
-
-<br/>
-
-███████████████████████████████████████
-
-<br/>
-
-<a href="https://kauahenriquedev.com.br"><img src="https://img.shields.io/badge/PORTFÓLIO-000000?style=flat-square" /></a>
-<a href="https://www.linkedin.com/in/kau%C3%A3henriquedev/"><img src="https://img.shields.io/badge/LINKEDIN-000000?style=flat-square&logo=linkedin&logoColor=FFFFFF" /></a>
-<a href="mailto:kauahenriquesx09@gmail.com"><img src="https://img.shields.io/badge/EMAIL-000000?style=flat-square&logo=gmail&logoColor=FFFFFF" /></a>
+<img src="https://github-readme-stats.vercel.app/api?username=Kauasx09-Henrique&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&hide_title=true&bg_color=00000000&icon_color=808080&text_color=808080" height="140" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kauasx09-Henrique&layout=compact&hide_border=true&hide_title=true&bg_color=00000000&text_color=808080&langs_count=6" height="140" />
 
 </div>
 
+<br/>
+
+## Projetos
+
+<table width="100%">
+<tr valign="top">
+<td width="50%">
+
+### Bibliafy
+Plataforma de leitura bíblica e devocionais
 <br/><br/>
+`Node.js` `React` `PostgreSQL`
+<br/><br/>
+<a href="https://bibliafy-front.vercel.app">deploy</a> ·
+<a href="https://github.com/Kauasx09-Henrique/api-node-bibliafy">api</a> ·
+<a href="https://github.com/Kauasx09-Henrique/web-react-bibliafy">web</a>
 
-### ―― SOBRE
+</td>
+<td width="50%">
 
-Formado em Análise e Desenvolvimento de Sistemas, cursando Engenharia de Software.
+### Cofre de Senhas
+Gerenciador de credenciais com autenticação JWT
+<br/><br/>
+`Java` `Spring Boot` `React`
+<br/><br/>
+<a href="https://github.com/Kauasx09-Henrique/api-java-cofre">api</a> ·
+<a href="https://github.com/Kauasx09-Henrique/web-react-cofre">web</a>
 
-Atuo no **CENSIPAM**, desenvolvendo o **DQBRN** — painel estratégico do Exército Brasileiro para monitoramento de desastres ambientais, químicos, radiológicos e epidemiológicos.
+</td>
+</tr>
+<tr valign="top">
+<td width="50%">
 
-Construo back-ends sólidos e front-ends que não deixam a desejar.
+### Estante
+Catalogação social de livros com leitura de ISBN
+<br/><br/>
+`Node.js` `React Native` `PostgreSQL`
+<br/><br/>
+<a href="https://github.com/Kauasx09-Henrique/api-node-estante">api</a> ·
+<a href="https://github.com/Kauasx09-Henrique/mobile-reactnative-estante">mobile</a>
 
-<br/>
+</td>
+<td width="50%">
 
-### ―― STACK
+### Clínica Ped
+Gestão de pacientes e histórico pediátrico
+<br/><br/>
+`TypeScript` `React Native`
+<br/><br/>
+<a href="https://github.com/Kauasx09-Henrique/api-typescript-clinicaped">api</a> ·
+<a href="https://github.com/Kauasx09-Henrique/mobile-reactnative-clinicaped">mobile</a>
 
-<div align="center">
+</td>
+</tr>
+<tr valign="top">
+<td width="50%">
 
-<img src="https://img.shields.io/badge/NODE.JS-000000?style=flat-square&logo=node.js&logoColor=FFFFFF" />
-<img src="https://img.shields.io/badge/NESTJS-000000?style=flat-square&logo=nestjs&logoColor=FFFFFF" />
-<img src="https://img.shields.io/badge/JAVA-000000?style=flat-square&logo=openjdk&logoColor=FFFFFF" />
-<img src="https://img.shields.io/badge/TYPESCRIPT-000000?style=flat-square&logo=typescript&logoColor=FFFFFF" />
-<img src="https://img.shields.io/badge/PHP-000000?style=flat-square&logo=php&logoColor=FFFFFF" />
+### Barbearia
+API de agendamentos, fluxo de caixa e clientes
+<br/><br/>
+`Node.js` `PostgreSQL`
+<br/><br/>
+<a href="https://github.com/Kauasx09-Henrique/api-node-barbearia">repo</a>
 
-<br/>
+</td>
+<td width="50%">
 
-<img src="https://img.shields.io/badge/REACT-000000?style=flat-square&logo=react&logoColor=FFFFFF" />
-<img src="https://img.shields.io/badge/REACT_NATIVE-000000?style=flat-square&logo=react&logoColor=FFFFFF" />
-<img src="https://img.shields.io/badge/TAILWIND-000000?style=flat-square&logo=tailwindcss&logoColor=FFFFFF" />
-<img src="https://img.shields.io/badge/HTML5-000000?style=flat-square&logo=html5&logoColor=FFFFFF" />
+### Portfólio
+Site pessoal fullstack
+<br/><br/>
+`React` `Vercel`
+<br/><br/>
+<a href="https://portfolio-fullstack-kaua.vercel.app">deploy</a> ·
+<a href="https://github.com/Kauasx09-Henrique/web-react-portfolio-kaua">repo</a>
 
-<br/>
-
-<img src="https://img.shields.io/badge/POSTGRESQL-000000?style=flat-square&logo=postgresql&logoColor=FFFFFF" />
-<img src="https://img.shields.io/badge/MYSQL-000000?style=flat-square&logo=mysql&logoColor=FFFFFF" />
-<img src="https://img.shields.io/badge/DOCKER-000000?style=flat-square&logo=docker&logoColor=FFFFFF" />
-<img src="https://img.shields.io/badge/GIT-000000?style=flat-square&logo=git&logoColor=FFFFFF" />
-<img src="https://img.shields.io/badge/VERCEL-000000?style=flat-square&logo=vercel&logoColor=FFFFFF" />
-
-</div>
-
-<br/>
-
-### ―― MÉTRICAS
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Kauasx09-Henrique&show_icons=true&count_private=true&hide_border=true&hide_title=true&bg_color=000000&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF" height="150" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kauasx09-Henrique&layout=compact&hide_border=true&hide_title=true&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&langs_count=6" height="150" />
-
-</div>
-
-<br/>
-
-### ―― PROJETOS
-
-<table>
-<tr><td width="999">
-
-**Bibliafy**
-<br/><sub>Plataforma de leitura bíblica e devocionais · Node.js / React</sub>
-<br/><a href="https://bibliafy-front.vercel.app">deploy</a> · <a href="https://github.com/Kauasx09-Henrique/api-node-bibliafy">api</a> · <a href="https://github.com/Kauasx09-Henrique/web-react-bibliafy">web</a>
-
-</td></tr>
-<tr><td>
-
-**Cofre de Senhas**
-<br/><sub>Gerenciador de credenciais com JWT · Java / Spring Boot / React</sub>
-<br/><a href="https://github.com/Kauasx09-Henrique/api-java-cofre">api</a> · <a href="https://github.com/Kauasx09-Henrique/web-react-cofre">web</a>
-
-</td></tr>
-<tr><td>
-
-**Clínica Ped**
-<br/><sub>Gestão pediátrica de pacientes · TypeScript / React Native</sub>
-<br/><a href="https://github.com/Kauasx09-Henrique/api-typescript-clinicaped">api</a> · <a href="https://github.com/Kauasx09-Henrique/mobile-reactnative-clinicaped">mobile</a>
-
-</td></tr>
-<tr><td>
-
-**Estante**
-<br/><sub>Catalogação social de livros com scan de ISBN · Node.js / React Native</sub>
-<br/><a href="https://github.com/Kauasx09-Henrique/api-node-estante">api</a> · <a href="https://github.com/Kauasx09-Henrique/mobile-reactnative-estante">mobile</a>
-
-</td></tr>
-<tr><td>
-
-**Portfólio**
-<br/><sub>Site pessoal fullstack · React</sub>
-<br/><a href="https://portfolio-fullstack-kaua.vercel.app">deploy</a> · <a href="https://github.com/Kauasx09-Henrique/web-react-portfolio-kaua">repo</a>
-
-</td></tr>
+</td>
+</tr>
 </table>
 
 <br/>
 
-<div align="center">
+## Stack
 
-███████████████████████████████████████
+<table width="100%">
+<tr valign="top">
+<td width="33%">
+
+**Back-end**
+<br/><br/>
+Node.js · NestJS
+<br/>Java · Spring Boot
+<br/>PHP · TypeScript
+
+</td>
+<td width="33%">
+
+**Front-end**
+<br/><br/>
+React · React Native
+<br/>Tailwind
+<br/>HTML · CSS
+
+</td>
+<td width="33%">
+
+**Infra & dados**
+<br/><br/>
+PostgreSQL · MySQL
+<br/>Docker · Git
+<br/>Vercel · Render
+
+</td>
+</tr>
+</table>
 
 <br/>
 
-<sub>kauahenriquesx09@gmail.com</sub>
+## Onde estou
 
-</div>
+Formado em Análise e Desenvolvimento de Sistemas, cursando Engenharia de Software.
+
+Atualmente no **CENSIPAM**, desenvolvendo o **DQBRN** — painel estratégico do Exército Brasileiro para monitoramento de desastres ambientais, químicos, radiológicos e epidemiológicos.
+
+<br/>
+
+---
+
+<p align="center"><sub>kauahenriquesx09@gmail.com</sub></p>
